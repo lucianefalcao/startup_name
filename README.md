@@ -1,16 +1,5 @@
-# startup_name
+# Startup Name Generator
 
-A new Flutter project.
+A Flutter project which provides to the user random names to be used in their startups.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project uses the [English Words Package](https://pub.dev/packages/english_words)
